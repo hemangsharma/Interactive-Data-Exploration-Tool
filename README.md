@@ -76,6 +76,14 @@ This project provides an interactive data exploration tool using Jupyter Noteboo
 3. **Generate Plots**:
    - Select a plot type and click "Generate Plot" to view the visualizations.
 
+![Step1](screenshots/s1.png)
+<br><br>
+
+![Step2](screenshots/s2.png)
+<br><br>
+
+![Step3](screenshots/s3.png)
+
 ---
 
 ## Customization
